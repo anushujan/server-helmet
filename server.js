@@ -12,7 +12,7 @@ const helmetData = [
     title: "Vega Thor",
     imageUrl: "https://vegaauto.com/wp-content/uploads/2023/11/Thor-1.jpg",
     price: 30000,
-    stock: "out of stock",
+    stock: "In stock",
   },
   {
     id: 4,
